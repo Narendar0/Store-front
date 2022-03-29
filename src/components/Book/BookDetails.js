@@ -12,13 +12,13 @@ const BookDetails = () => {
 
     useEffect(()=> {
         const fetchHandler = async() =>{
-         await axios.get(`http://localhost:5000/books/${id}`).then(res=>res.data).then(data=>setInputs(data.book));
+         await axios.get(`https://book-store-app-cap.herokuapp.com/books/${id}`).then(res=>res.data).then(data=>setInputs(data.book));
         };
         fetchHandler()
     },[id])
 
     const sendRequest = async() => {
-        await axios.put(`http://localhost:5000/books/${id}`,{
+        await axios.put(`https://book-store-app-cap.herokuapp.com/books/${id}`,{
             name: String(inputs.name),
             author: String(inputs.author),
             description: String(inputs.description),
