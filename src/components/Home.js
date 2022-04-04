@@ -31,9 +31,9 @@ const Home = () => {
             all about the importance of books in a student’s life,
              essays on importance of reading books, quotes and more!</p>
            
-           </br>
+          
            <h1>Advantages of books &  the importance of books in our life:</h1> 
-           </br>
+           
 
 <p  align="center">Books are our best friends.</p>
 <p  align="center">Books illuminate your imagination.</p>
