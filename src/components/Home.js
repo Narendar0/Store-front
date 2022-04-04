@@ -32,7 +32,7 @@ const Home = () => {
              essays on importance of reading books, quotes and more!</p>
            
           
-           <h1>Advantages of books &  the importance of books in our life:</h1> 
+           <h1 align="center">Advantages of books &  the importance of books in our life:</h1> 
            
 
 <p  align="center">Books are our best friends.</p>
