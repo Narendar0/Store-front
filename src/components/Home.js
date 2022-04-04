@@ -14,9 +14,9 @@ const Home = () => {
               <Typography variant='h3'>View All Products</Typography>
           </Button>
       </Box>
-<h2>Welcome To Book Store App</h2>
+<h2 align="center">Welcome To Book Store App</h2>
       
-    <p>Books play a quintessential role in every student’s 
+    <p align="center">Books play a quintessential role in every student’s 
       life by introducing them to a world of imagination,
        providing knowledge of the outside world, improving
         their reading, writing and speaking skills as well 
@@ -30,6 +30,8 @@ const Home = () => {
             how books impact our lives? Read this blog to know 
             all about the importance of books in a student’s life,
              essays on importance of reading books, quotes and more!</p>
+           
+           
   </div>
   )
 }
