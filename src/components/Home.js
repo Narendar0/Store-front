@@ -30,6 +30,26 @@ const Home = () => {
             how books impact our lives? Read this blog to know 
             all about the importance of books in a student’s life,
              essays on importance of reading books, quotes and more!</p>
+           <p  align="center">Books are our best friends.
+Books illuminate your imagination.
+Books help you form your own unique perspective of the world around you.
+Books build confidence.
+Books help you grow mentally and emotionally.
+Books enhance your vocabulary.
+Books help you learn new languages.
+Books inculcate analytical skills in you.
+Books are therapeutic and offer wonderful recluse.
+Books impart you with crucial life lessons.
+Books sharpen your ingenuity.
+Books make students intelligent.
+Books improve memory.
+Books relieve the stress of students.
+Books improve your writing skills.
+Books introduce us to things and perspectives.
+Books help in self-improvement.
+Reading books improve your communication skills.
+Books record history and spread awareness.
+Reading is an excellent hobby.</p>
            
            
   </div>
