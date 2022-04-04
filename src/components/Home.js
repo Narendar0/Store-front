@@ -30,27 +30,31 @@ const Home = () => {
             how books impact our lives? Read this blog to know 
             all about the importance of books in a student’s life,
              essays on importance of reading books, quotes and more!</p>
-           <p  align="center">Books are our best friends.
-Books illuminate your imagination.
-Books help you form your own unique perspective of the world around you.
-Books build confidence.
-Books help you grow mentally and emotionally.
-Books enhance your vocabulary.
-Books help you learn new languages.
-Books inculcate analytical skills in you.
-Books are therapeutic and offer wonderful recluse.
-Books impart you with crucial life lessons.
-Books sharpen your ingenuity.
-Books make students intelligent.
-Books improve memory.
-Books relieve the stress of students.
-Books improve your writing skills.
-Books introduce us to things and perspectives.
-Books help in self-improvement.
-Reading books improve your communication skills.
-Books record history and spread awareness.
-Reading is an excellent hobby.</p>
            
+           </br>
+           <h1>Advantages of books &  the importance of books in our life:</h1> 
+           </br>
+
+<p  align="center">Books are our best friends.</p>
+<p  align="center">Books illuminate your imagination.</p>
+<p  align="center">Books help you form your own unique perspective of the world around you.</p>
+<p  align="center">Books build confidence.</p>
+<p  align="center">Books help you grow mentally and emotionally.</p>
+<p  align="center">Books enhance your vocabulary.</p>
+<p  align="center">Books help you learn new languages.</p>
+<p  align="center">Books inculcate analytical skills in you.</p>
+<p  align="center">Books are therapeutic and offer wonderful recluse.</p>
+<p  align="center">Books impart you with crucial life lessons.</p>
+<p  align="center">Books sharpen your ingenuity.</p>
+<p  align="center">Books make students intelligent.</p>
+<p  align="center">Books improve memory.</p>
+<p  align="center">Books relieve the stress of students.</p>
+<p  align="center">Books improve your writing skills.</p>
+<p  align="center">Books introduce us to things and perspectives.</p>
+<p  align="center">Books help in self-improvement.</p>
+<p  align="center">Reading books improve your communication skills.</p>
+<p  align="center">Books record history and spread awareness.</p>
+<p  align="center">Reading is an excellent hobby.</p>
            
   </div>
   )
